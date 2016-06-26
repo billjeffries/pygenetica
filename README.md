@@ -5,7 +5,7 @@ pygenetica is a genetic algorithms library.
 
 The intent is to make the library as Pythonic and straightforward as possible.  Another goal is to make the library feel familiar to those with scikit-learn experience.
 
-##Basic Usage
+##Usage
 ```
 import core.ga as ga
 import core.genotype as gtype
